@@ -1,0 +1,4 @@
+﻿"FindingID","Username","FindingType","Risk","ActualAccess","ExpectedAccess","RecommendedAction"
+"IAM-001","jordan.lee","Excessive Access","Medium","APP_Expenses_Approver","None","Review and remove unauthorized access"
+"IAM-002","morgan.patel","SoD Conflict","High","APP_Expenses_Requester; APP_Expenses_Approver","APP_Expenses_Approver","Review and remove conflicting entitlement"
+"IAM-003","cameron.davis","Stale Entitlement","Medium","APP_Expenses_Requester","None","Review and remove retained entitlement"

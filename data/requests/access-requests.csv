@@ -1,0 +1,4 @@
+﻿RequestID,SamAccountName,JobRole,RequestedEntitlement,ApprovalOwner,ApprovalStatus
+REQ-001,avery.johnson,Finance-Requester,APP_Expenses_Requester,Finance Manager,Pending
+REQ-002,casey.brooks,Finance-Requester,APP_Expenses_Requester,Finance Manager,Pending
+REQ-003,morgan.patel,Finance-Approver,APP_Expenses_Approver,Finance Director,Pending

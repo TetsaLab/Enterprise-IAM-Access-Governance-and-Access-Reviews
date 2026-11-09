@@ -1,0 +1,6 @@
+﻿JobRole,Department,RequiredADGroup,ApplicationEntitlement,ApprovalOwner
+IT-Support,IT,GG_IT_Users,,IT Manager
+HR-Generalist,HR,GG_HR_Users,,HR Manager
+Finance-Requester,Finance,GG_Finance_Users,APP_Expenses_Requester,Finance Manager
+Finance-Approver,Finance,GG_Finance_Users,APP_Expenses_Approver,Finance Director
+Sales-Representative,Sales,GG_Sales_Users,,Sales Manager

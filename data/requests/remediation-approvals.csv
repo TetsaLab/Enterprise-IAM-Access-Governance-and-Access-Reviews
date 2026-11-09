@@ -1,0 +1,4 @@
+﻿FindingID,SamAccountName,EntitlementToRemove,Decision,ApproverRole,ApprovalMode
+IAM-001,jordan.lee,APP_Expenses_Approver,Approved,Finance Director,Simulated
+IAM-002,morgan.patel,APP_Expenses_Requester,Approved,Finance Manager,Simulated
+IAM-003,cameron.davis,APP_Expenses_Requester,Approved,Finance Manager,Simulated

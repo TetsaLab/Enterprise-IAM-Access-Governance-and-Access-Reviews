@@ -1,0 +1,4 @@
+﻿RequestID,Decision,ApproverRole,ApprovalMode
+REQ-001,Approved,Finance Manager,Simulated
+REQ-002,Approved,Finance Manager,Simulated
+REQ-003,Approved,Finance Director,Simulated
